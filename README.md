@@ -1,6 +1,7 @@
 # Build CUDA Neural Network From Scratch
 
 This project is a CUDA-based neural network implementation, developed from scratch with performance optimizations and modifications. The project is inspired by [cuda-neural-network](ttps://github.comh/pwlnk/cuda-neural-network) and has been extended with additional features and optimizations to improve performance. Notably, the input dataset has been changed to MNIST, a popular dataset for handwritten digit recognition.
+> 🚀a c++ version is here https://github.com/Phoenix8215/build_neural_network_from_scratch_CPP
 
 ## Features
 
