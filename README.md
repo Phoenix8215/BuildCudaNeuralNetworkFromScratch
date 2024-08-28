@@ -15,7 +15,7 @@ This project is a CUDA-based neural network implementation, developed from scrat
 ### Prerequisites
 
 - **CUDA**: Ensure that you have CUDA installed on your system. You can download it from [NVIDIA's website](https://developer.nvidia.com/cuda-downloads).
-- **CMake**: Required for building the project.
+- **Make**: Required for building the project.
 - **A modern C++ compiler**: GCC or Clang is recommended.
 
 ### Steps
